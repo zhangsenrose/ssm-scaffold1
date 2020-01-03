@@ -1,4 +1,5 @@
 # ssm-scaffold1
+SSM脚手架
 整体架构就是普通的三层 dao service controller
 src/mian/resources 目录下包含SSM框架需要的配置文件，
 spring目录：
